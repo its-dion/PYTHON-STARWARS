@@ -171,4 +171,4 @@ while True:
         break
 
 window.mainloop()
-#This Game is build by Anku
+#This Game is build by @Splendid_sites_itz_d.ion
